@@ -1,6 +1,6 @@
 # नमस्कार(:pray:) I'm [Ayush Pandey](https://github.com/Metapandey)
 <p align="center" >
-<img src="https://user-images.githubusercontent.com/49518917/109394637-04362780-794e-11eb-9292-04dff9ec1179.gif" width="280px"><br>
+<img src="https://user-images.githubusercontent.com/49518917/109396334-fafd8880-7956-11eb-85b6-d3ccc3b6576b.gif"><br>
 </p> 
 
 ```js
