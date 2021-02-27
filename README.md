@@ -1,4 +1,4 @@
-# नमस्कार(:pray:) I'm [Ayush Pandey](https://github.com/Metapandey)
+# Namaste(:pray:) I'm [Ayush Pandey](https://github.com/Metapandey)
 <p align="center" >
 <img src="https://user-images.githubusercontent.com/49518917/109396334-fafd8880-7956-11eb-85b6-d3ccc3b6576b.gif"><br>
 </p> 
@@ -9,23 +9,23 @@ document.write("Hello World");
 
 var status = 
 { 
-  learning : [Golang, React, Redux, Django Signals & PostgreSQL],
-  interests: [Research, Open Source Contribution]
+  learning : [Golang,Google Cloud,Kubernetes], // Want to explore and learn about different services provided by AWS but not a the moment
+  interests: [Cyber Security News/Research/Practise, Open Source Contribution,Football,Formula One,Flat track racing]
 }
 
 const skills = 
 {
-  languages :[C, Cpp, Python, Bash, Java, Html, Css, Javascript, Ruby],
+  languages :[ Python, Bash,Javascript,React,jQuery,Html5,css3,KQL (Kusto Query Language), data serialization languages(Json,Yaml,XML),Java,C++],
   
-  ide       :[Vs Code, PyCharm, Jupyter Notebook, Android Studio, Cloud-9, Paiza Cloud-IDE, Eclipse],
+  ide       :[Visual Studio Code,repl(online)],
   
-  libraries :[Jquery, ThreeJs, Numpy, Pandas, Sklearn, Seaborn, Matplotlib, Tkinter, Tensorflow],
+  libraries :[Jquery,argparse,subprocess,Pymetasploit3,Scapy,Scoket, Tkinter],
   
-  frameworks:[Bootstrap, React, Ionic, Flutter, Meteor, Node, Django, Flask],
+  frameworks:[Bootstrap, React-native],
   
-  databases :[Sqlite3, MySql, PostgreSQL, Firebase],
+  databases :[ MySql, Firebase,NOsql],
   
-  platforms :[Google Cloud Platform, Amazon Web Services, Firebase, Heroku, Pythonanywhere, Surge, Github Pages],
+  platforms :[Google Cloud Platform, Azure,Ansible,Digital Ocean,Linode,IBM],
   
   cicd      :[TravisCI, CircleCI, Github Workflows]
 }
