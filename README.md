@@ -1,7 +1,7 @@
 # नमस्कार(:pray:) I'm [Ayush Pandey](https://github.com/Metapandey)
 <p align="center">
 <br><img src="https://user-images.githubusercontent.com/49518917/109393831-f2528580-7949-11eb-9dae-127f85797c39.gif" width="280px"><br><br>
-<br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
+<br><img src="https://user-images.githubusercontent.com/49518917/109393833-f2eb1c00-7949-11eb-8389-40ec6959b85b.gif" width="280px"><br><br>
 </p>
 
 ### Languages
