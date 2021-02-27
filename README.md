@@ -1,4 +1,4 @@
-# नमस्कार ==>:pray:: I'm [Ayush Pandey](https://github.com/Metapandey)
+# नमस्कार(:pray:) I'm [Ayush Pandey](https://github.com/Metapandey)
 **:star:Learning Tech!:star:** 
 <br/>
 <table border="1"><tr><td valign="top" width="67%">
@@ -28,3 +28,9 @@
 [<img align="left" width="22px" src="https://user-images.githubusercontent.com/41548582/90962371-1893f600-e4cd-11ea-8547-a539d3c61c61.png" />](https://editor.p5js.org)
 [<img align="left" width="40px" src="https://user-images.githubusercontent.com/41548582/106392259-053f6c00-6417-11eb-8459-44e82bca5fdd.png" />](https://reactjs.org)
 <br/>
+
+### Now Playing 🎧
+
+[![Spotify](https://spotify-recently-played-6w8ea7g4e.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+<br/>
+---
