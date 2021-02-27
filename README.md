@@ -1,19 +1,48 @@
 # नमस्कार(:pray:) I'm [Ayush Pandey](https://github.com/Metapandey)
-<p >
-<img src="https://user-images.githubusercontent.com/49518917/109393831-f2528580-7949-11eb-9dae-127f85797c39.gif" width="280px">
-<img src="https://user-images.githubusercontent.com/49518917/109393833-f2eb1c00-7949-11eb-8389-40ec6959b85b.gif" width="280px">
-</p>
+<p align="center" >
+<img src="https://user-images.githubusercontent.com/49518917/109394637-04362780-794e-11eb-9292-04dff9ec1179.gif" width="280px"><br>
+</p> align="center"
 
-### Languages
+```js
 
-[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
-[![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
-[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+document.write("Hello World");
+
+var status = 
+{ 
+  learning : [Golang, React, Redux, Django Signals & PostgreSQL],
+  interests: [Research, Open Source Contribution]
+}
+
+const skills = 
+{
+  languages :[C, Cpp, Python, Bash, Java, Html, Css, Javascript, Ruby],
+  
+  ide       :[Vs Code, PyCharm, Jupyter Notebook, Android Studio, Cloud-9, Paiza Cloud-IDE, Eclipse],
+  
+  libraries :[Jquery, ThreeJs, Numpy, Pandas, Sklearn, Seaborn, Matplotlib, Tkinter, Tensorflow],
+  
+  frameworks:[Bootstrap, React, Ionic, Flutter, Meteor, Node, Django, Flask],
+  
+  databases :[Sqlite3, MySql, PostgreSQL, Firebase],
+  
+  platforms :[Google Cloud Platform, Amazon Web Services, Firebase, Heroku, Pythonanywhere, Surge, Github Pages],
+  
+  cicd      :[TravisCI, CircleCI, Github Workflows]
+}
+
+
+Developer dev = new Developer(chiraag-kakar);
+
+while(dev.isCoding() && dev.isStuck())  
+{
+  dev.openBrowser();
+  dev.openStackOverFlow();
+  dev.pasteCodeInIde();
+  dev.feelProfessional();
+}
+
+
+```
 
 ### Technologies
 
