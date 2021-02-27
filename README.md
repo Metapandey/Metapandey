@@ -1,4 +1,4 @@
-# नमस्कारः,:pray:: I'm [Ayush Pandey](https://github.com/Metapandey)
+# नमस्कार ==>:pray:: I'm [Ayush Pandey](https://github.com/Metapandey)
 **:star:Learning Tech!:star:** 
 <br/>
 <table border="1"><tr><td valign="top" width="67%">
