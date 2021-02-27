@@ -33,7 +33,7 @@
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)]
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)]
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)]
-![MYSQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
 ### Technologies
