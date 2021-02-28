@@ -1,11 +1,9 @@
 # Namaskar(:pray:) Aapka Swagat Hai 
 <h3 align="center">
-  Hey there, I'm [Ayush Pandey](https://github.com/Metapandey)
+  Hey there, I'm [Ayush Pandey]
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
-</h3>I'm [Ayush Pandey](https://github.com/Metapandey)
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
+</h3>
 
 <p align="center" >
 <img src="https://user-images.githubusercontent.com/49518917/109409530-91fb2c80-79b9-11eb-8c2e-743d08ac99df.gif"><br>
