@@ -1,4 +1,4 @@
-# Namaskar(:pray:) Aapka Swagat Hai ( <h6> I'm [Ayush Pandey](https://github.com/Metapandey)</h6> )
+# Namaskar(:pray:) Aapka Swagat Hai ## I'm [Ayush Pandey](https://github.com/Metapandey)
 
 <p align="center" >
 <img src="https://user-images.githubusercontent.com/49518917/109409530-91fb2c80-79b9-11eb-8c2e-743d08ac99df.gif"><br>
