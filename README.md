@@ -3,6 +3,7 @@
   Hey there, I'm [Ayush Pandey]
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
+  <img src="https://user-images.githubusercontent.com/49518917/109415101-b9afbc00-79dc-11eb-8754-5e3457b12662.gif" width="28"/>
 </h2>
 <p align="center" >
 <img src="https://user-images.githubusercontent.com/49518917/109409530-91fb2c80-79b9-11eb-8c2e-743d08ac99df.gif"><br>
