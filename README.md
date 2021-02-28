@@ -31,13 +31,14 @@ const skills =
 }
 
 
-Developer dev = new Developer(Ayush Pandey);
+Developer dev = new Cloud Administrator/Devloper(Ayush Pandey);
 
-while(dev.isCoding() && dev.isStuck())  
+while(dev.isMakingProject() && dev.isStuck())  
 {
   dev.openBrowser();
+  dev.officialDocumentation()
   dev.openStackOverFlow(),dev.openYouTube(),dev.openMedium.com(),dev.openReddit();
-  dev.pasteCodeInIde();
+  dev.pasteSolution/Code();
   dev.feelProfessional();
 }
 
