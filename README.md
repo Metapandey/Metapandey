@@ -10,7 +10,7 @@ document.write("Hello World");
 
 var status = 
 { 
-  learning : [Golang,Google Cloud,Kubernetes], // Want to explore and learn about different services provided by AWS but not a the moment
+  learning : [Golang,Google Cloud Services,Kubernetes], // Want to explore and learn about different services provided by AWS but not at the moment
   interests: [Cyber Security News/Research/Practise, Open Source Contribution,Football,Formula One,Flat track racing]
 }
 
