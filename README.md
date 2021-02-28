@@ -20,7 +20,7 @@ const skills =
   
   ide       :[Visual Studio Code,repl.io(online)],
   
-  libraries :[Jquery,argparse,subprocess,Pymetasploit3,Scapy,Scoket, Tkinter,Numpy,Pandas],
+  libraries :[Jquery,Argparse,Subprocess,Pymetasploit3,Scapy,Scoket, Tkinter,Numpy,Pandas],
   
   frameworks:[Bootstrap, React-Native],
   
