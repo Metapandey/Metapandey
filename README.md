@@ -59,13 +59,13 @@ while(dev.isMakingProject() && dev.isStuck())
 ```
 ## MY THINKING
 <p>
-<img src="https://user-images.githubusercontent.com/49518917/109415513-2c219b80-79df-11eb-82df-7e1c57ad4377.gif" width="100"/>
+<img src="https://user-images.githubusercontent.com/49518917/109415513-2c219b80-79df-11eb-82df-7e1c57ad4377.gif" />
 <img src="https://user-images.githubusercontent.com/49518917/109415522-35ab0380-79df-11eb-8b6d-e0f7ad35e377.gif" />
-<img src="https://user-images.githubusercontent.com/49518917/109415525-39d72100-79df-11eb-9cbc-ef4cf3da69b9.gif" width="100"/>
-<img src="https://user-images.githubusercontent.com/49518917/109415532-4491b600-79df-11eb-8f2b-b476243efcbb.gif" width="100"/>
-<img src="https://user-images.githubusercontent.com/49518917/109415540-52dfd200-79df-11eb-9891-0ec3d47f2ffc.gif" width="100"/>
-<img src="https://user-images.githubusercontent.com/49518917/109415498-11e7bd80-79df-11eb-9e89-ee99b5e6caa9.gif" width="100"/>
-<img src="https://user-images.githubusercontent.com/49518917/109415503-18763500-79df-11eb-914c-6c443eb7e99d.gif" width="100"/>
-<img src="https://user-images.githubusercontent.com/49518917/109415504-1b712580-79df-11eb-807e-3af3236de9bc.gif" width="100"/>
-<img src="https://user-images.githubusercontent.com/49518917/109415205-55412c80-79dd-11eb-8f22-815b5ba2129f.gif" width="100"/>
+<img src="https://user-images.githubusercontent.com/49518917/109415525-39d72100-79df-11eb-9cbc-ef4cf3da69b9.gif" />
+<img src="https://user-images.githubusercontent.com/49518917/109415532-4491b600-79df-11eb-8f2b-b476243efcbb.gif" />
+<img src="https://user-images.githubusercontent.com/49518917/109415540-52dfd200-79df-11eb-9891-0ec3d47f2ffc.gif" />
+<img src="https://user-images.githubusercontent.com/49518917/109415498-11e7bd80-79df-11eb-9e89-ee99b5e6caa9.gif" />
+<img src="https://user-images.githubusercontent.com/49518917/109415503-18763500-79df-11eb-914c-6c443eb7e99d.gif" />
+<img src="https://user-images.githubusercontent.com/49518917/109415504-1b712580-79df-11eb-807e-3af3236de9bc.gif" />
+<img src="https://user-images.githubusercontent.com/49518917/109415205-55412c80-79dd-11eb-8f22-815b5ba2129f.gif"/>
 </p>
