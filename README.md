@@ -16,17 +16,17 @@ var status =
 
 const skills = 
 {
-  languages :[ Python, Bash,Javascript,React,jQuery,Html5,css3,KQL (Kusto Query Language), data serialization languages(Json,Yaml,XML),Java,C++],
+  languages :[ Python, Bash,Javascript,React,JQuery,Html5,CSS3,KQL (Kusto Query Language),Data Serialization L(Json,Yaml,XML),Java,C++],
   
-  ide       :[Visual Studio Code,repl(online)],
+  ide       :[Visual Studio Code,repl.io(online)],
   
   libraries :[Jquery,argparse,subprocess,Pymetasploit3,Scapy,Scoket, Tkinter,Numpy,Pandas],
   
-  frameworks:[Bootstrap, React-native],
+  frameworks:[Bootstrap, React-Native],
   
   databases :[ MySql, Firebase,NOsql],
   
-  platforms :[Google Cloud Platform, Azure,Ansible,Digital Ocean,Linode,IBM],
+  platforms :[Google Cloud Platform, Azure,Ansible,Digital Ocean,Linode,IBM,Cisco],
   
   cicd      :[Github Workflows]
 }
