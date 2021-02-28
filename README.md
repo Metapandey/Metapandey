@@ -37,8 +37,13 @@ Developer dev = new Cloud Administrator/Devloper(Ayush Pandey);
 while(dev.isMakingProject() && dev.isStuck())  
 {
   dev.openBrowser();
-  dev.officialDocumentation()
+  if (dev.openOfficialDocumentation() == dev.foundSolution())
+  {
+  dev.feelProfessional();
+  }
+  else{
   dev.openStackOverFlow(),dev.openYouTube(),dev.openMedium.com(),dev.openReddit();
+  }
   dev.pasteSolution/Code();
   dev.feelProfessional();
 }
