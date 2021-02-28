@@ -1,10 +1,9 @@
-<h1 align="center" style="color:red"><b>Namaskar(:pray:) Aapka Swagat Hai</b><h1>
-<h1 align="center">
+<h1 align="center"><b>Namaskar(:pray:) Aapka Swagat Hai</b><h1>
+<h2 align="center">
   Hey there, I'm [Ayush Pandey]
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/>
-  <img src="https://user-images.githubusercontent.com/49518917/109415205-55412c80-79dd-11eb-8f22-815b5ba2129f.gif" width="100"/>
-</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+</h2>
 <p align="center" >
 <img src="https://user-images.githubusercontent.com/49518917/109409530-91fb2c80-79b9-11eb-8c2e-743d08ac99df.gif"><br>
 </p>
@@ -58,4 +57,8 @@ while(dev.isMakingProject() && dev.isStuck())
 
 
 ```
-
+## MY THINKING
+<img src="https://user-images.githubusercontent.com/49518917/109415205-55412c80-79dd-11eb-8f22-815b5ba2129f.gif" width="100"/>
+<img src="https://user-images.githubusercontent.com/49518917/109415205-55412c80-79dd-11eb-8f22-815b5ba2129f.gif" width="100"/>
+<img src="https://user-images.githubusercontent.com/49518917/109415205-55412c80-79dd-11eb-8f22-815b5ba2129f.gif" width="100"/>
+<img src="https://user-images.githubusercontent.com/49518917/109415205-55412c80-79dd-11eb-8f22-815b5ba2129f.gif" width="100"/>
