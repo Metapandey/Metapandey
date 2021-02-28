@@ -26,7 +26,7 @@ const skills =
   
   databases :[ MySql, Firebase,NOsql],
   
-  platforms :[Google Cloud Platform, Azure,Ansible,Digital Ocean,Linode,IBM,Cisco],
+  platforms :[Google Cloud Platform, Azure,Docker,Ansible,Digital Ocean,Linode,IBM,Cisco],
   
   cicd      :[Github Workflows]
 }
