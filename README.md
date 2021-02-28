@@ -5,7 +5,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </h2>
 <p align="center" >
-<img src="https://user-images.githubusercontent.com/49518917/109409530-91fb2c80-79b9-11eb-8c2e-743d08ac99df.gif"><br>
+<img src="https://user-images.githubusercontent.com/49518917/109415868-32b11280-79e1-11eb-8c12-460e8afbcd13.gif"><br>
 </p>
   
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/ayush-pandey-815820153/)
