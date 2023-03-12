@@ -17,13 +17,13 @@ document.write("Hello World");
 
 var status = 
 { 
-  learning : [Golang,Google Cloud Services,Kubernetes], // Want to explore and learn about different services provided by AWS but not at the moment
+  learning : [GCP, AWS], // Want to explore and learn about different services provided by AWS but not at the moment
   interests: [Cyber Security News/Research/Practise, Open Source Contribution,Football,Formula One,Flat track racing]
 }
 
 const skills = 
 {
-  languages :[ Python, Bash,Javascript,React,JQuery,Html5,CSS3,KQL (Kusto Query Language),Data Serialization L(Json,Yaml,XML),Java,C++],
+  languages :[ Python, Bash,Javascript,React,JQuery,Html5,CSS3,KQL (Kusto Query Language),Data Serialization (Json,Yaml,XML,HCL),Java,C++],
   
   ide       :[Visual Studio Code,repl.io(online)],
   
